@@ -1,10 +1,10 @@
-### Hi Folks, I'm Hakim 👋
+### Hi Mathematicians, I'm Hakim Akbar 👋
 ![](https://komarev.com/ghpvc/?username=hakimakbarmaulana&color=blue&style=flat-square&label=visitors)
 ---
 
 ### About me
 
-**I love design and make new things** especially for make an app and **my desire is to make apps looks nice and friendly** for user not just nice for eye but easy to use
+**I love mathematics and coding** especially for analytical data, data processing, image processing, and mathematical modeling
 
 - My Current Status : Undergraduate Student 7th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
 
@@ -17,7 +17,7 @@
 
 <br/>
 
-[facebook]: https://web.facebook.com/hakimakbar
+[facebook]: https://www.facebook.com/profile.php?id=100007099277951
 [linkedin]: https://www.linkedin.com/in/mochamad-hakim-akbar-assidiq-maulana-45b2a1216
 [instagram]: https://www.instagram.com/hakimakbarmaulana
 [telegram]: https://t.me/hakimakbar
