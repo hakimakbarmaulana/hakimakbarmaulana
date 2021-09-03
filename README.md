@@ -9,8 +9,8 @@
 *That's my education background*:
 
 - My Current Status : Undergraduate Student 7th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
-- Bangkit Graduate 2021, Machine Learning Path
-- Finished Fresh Graduate Academy, Machine Learning with IBM
+- [Bangkit](https://grow.google/intl/id_id/bangkit/) Graduate 2021, Machine Learning Path
+- Finished [Fresh Graduate Academy](https://digitalent.kominfo.go.id/), Machine Learning with IBM
 
 #### Let's connect with me:
 
