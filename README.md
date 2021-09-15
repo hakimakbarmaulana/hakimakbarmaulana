@@ -11,6 +11,7 @@
 - My Current Status : Undergraduate Student 7th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
 - [Bangkit](https://grow.google/intl/id_id/bangkit/) Graduate 2021, Machine Learning Path
 - Finished [Fresh Graduate Academy](https://digitalent.kominfo.go.id/), Machine Learning with IBM
+- Developer of [Codematika bot telegram](https://t.me/codematikabot) for mathematical computing purpose 🎉
 
 #### Let's connect with me:
 
