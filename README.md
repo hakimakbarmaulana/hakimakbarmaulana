@@ -11,8 +11,11 @@
 - My Current Status : Undergraduate Student 7th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
 - [Bangkit](https://grow.google/intl/id_id/bangkit/) Graduate 2021, Machine Learning Path
 - Finished [Fresh Graduate Academy](https://digitalent.kominfo.go.id/), Machine Learning with IBM
-- Developer of [Codematika bot telegram](https://t.me/codematikabot) for mathematical computing purpose 🎉
 
+*That's my last project*:
+
+- Developer of [Codematika bot telegram](https://t.me/codematikabot) for mathematical computing purpose 🎉
+- Capstone Project at Bangkit 2021 about [Automated Self Checkout](https://github.com/hanan221/B21-CAP0454)
 #### Let's connect with me:
 
 [<img align="left" alt="hakimakbar | Facebook" width="22px" src="https://www.freepnglogos.com/uploads/facebook-logo-13.png" />][facebook]
