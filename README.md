@@ -16,6 +16,14 @@
 
 - Developer of [Codematika bot telegram](https://t.me/codematikabot) for mathematical computing purpose 🎉
 - Capstone Project at Bangkit 2021 about [Automated Self Checkout](https://github.com/hanan221/B21-CAP0454)
+
+<p align="left">
+<a href="https://github.com/hakimakbarmaulana">
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api?username=hakimakbarmaulana&show_icons=true&theme=algolia&include_all_commits=true&count_private=true"/>
+  <img height="180em" src="https://github-readme-stats-eight-theta.vercel.app/api/top-langs/?username=hakimakbarmaulana&layout=compact&langs_count=8&theme=algolia"/>
+</a>
+</p>
+
 #### Let's connect with me:
 
 [<img align="left" alt="hakimakbar | Facebook" width="22px" src="https://www.freepnglogos.com/uploads/facebook-logo-13.png" />][facebook]
