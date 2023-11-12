@@ -4,11 +4,11 @@
 
 ### About me
 
-**I love mathematics and coding** especially for analytical data, data processing, image processing, and mathematical modeling. 
+**I love mathematics and coding**, especially for analytical data, data processing, image processing, and mathematical modeling. 
 
 *That's my education background*:
 
-- My Current Status : Undergraduate Student 7th Semester in [Brawijaya University](https://ub.ac.id/) Majoring Mathematics
+- My Current Status: Bachelor's Degree (2022) in [Brawijaya University](https://ub.ac.id/) Majoring in Mathematics
 - [Bangkit](https://grow.google/intl/id_id/bangkit/) Graduate 2021, Machine Learning Path
 - Finished [Fresh Graduate Academy](https://digitalent.kominfo.go.id/), Machine Learning with IBM
 
@@ -16,6 +16,13 @@
 
 - Developer of [Codematika bot telegram](https://t.me/codematikabot) for mathematical computing purpose 🎉
 - Capstone Project at Bangkit 2021 about [Automated Self Checkout](https://github.com/hanan221/B21-CAP0454)
+
+*That's my last job*:
+
+- Mathematics Teacher at **Pandaan Public High School 1** ([SMAN 1 Pandaan](https://smanda.sch.id/)) \
+  *February 2023 - until now*
+- Mathematics and Informatics Teacher at [Ganesha Operation Pandaan](https://www.instagram.com/go_pandaan/?hl=id) \
+  *September 2023 - until now*
 
 ### Github Statistic
 <p align="left">
