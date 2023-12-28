@@ -10,7 +10,7 @@
 
 - My Current Status: Bachelor's Degree (2022) in [Brawijaya University](https://ub.ac.id/) Majoring in Mathematics
 - [Bangkit](https://grow.google/intl/id_id/bangkit/) Graduate 2021, Machine Learning Path
-- Finished [Fresh Graduate Academy](https://digitalent.kominfo.go.id/), Machine Learning with IBM
+- Completed [Fresh Graduate Academy](https://digitalent.kominfo.go.id/), Machine Learning with IBM
 
 *That's my last project*:
 
@@ -21,7 +21,7 @@
 
 - Mathematics Teacher at **Pandaan Public High School 1** ([SMAN 1 Pandaan](https://smanda.sch.id/)) \
   *February 2023 - until now*
-- Mathematics and Informatics Teacher at [Ganesha Operation Pandaan](https://www.instagram.com/go_pandaan/?hl=id) \
+- Mathematics and Informatics Teacher at [**Ganesha Operation Pandaan**](https://www.instagram.com/go_pandaan/?hl=id) \
   *September 2023 - until now*
 
 ### Github Statistic
