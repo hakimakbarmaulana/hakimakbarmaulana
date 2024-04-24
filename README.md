@@ -20,9 +20,10 @@
 *That's my last job*:
 
 - Mathematics Teacher at **Pandaan Public High School 1** ([SMAN 1 Pandaan](https://smanda.sch.id/)) \
-  *February 2023 - until now*
-- Mathematics and Informatics Teacher at [**Ganesha Operation Pandaan**](https://www.instagram.com/go_pandaan/?hl=id) \
   *September 2023 - until now*
+- Mathematics and Informatics Teacher at [**Ganesha Operation Pandaan**](https://www.instagram.com/go_pandaan/?hl=id) \
+  *February 2023 - until now*
+- Founder and Mathematics Tutor at **Codematica Academy**
 
 ### Github Statistic
 <p align="left">
