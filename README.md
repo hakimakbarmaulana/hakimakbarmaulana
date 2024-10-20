@@ -16,6 +16,7 @@
 
 - Developer of [Codematika bot telegram](https://t.me/codematikabot) for mathematical computing purpose 🎉
 - Capstone Project at Bangkit 2021 about [Automated Self Checkout](https://github.com/hanan221/B21-CAP0454)
+- Machine Learning Engineer and Coach of Quadics Mind Team : [Q-Sign](https://youtu.be/z3V8TAo294g?si=qOrOuU9pamOVH_80), Sign Language Translator at [Samsung Solve for Tomorrow 2024](https://www.samsung.com/id/solvefortomorrow/)
 
 *That's my last job*:
 
